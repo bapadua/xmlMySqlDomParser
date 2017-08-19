@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><root><config><ip>127.0.0.1</ip><porta>3306</porta><database>webempresa</database><SSL>1</SSL><usuario>root</usuario><senha>!!mysql</senha></config></root>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root><config><ip>127.0.0.1</ip><porta>3306</porta><database>webempresa</database><SSL>1</SSL><usuario>root</usuario><senha></senha></config></root>
