@@ -1,3 +1,6 @@
+#Silly!
+Bem bobinho e vou deixar aqui apenas pela questão de tempo de estudos, e era algo que no primeiro semestre já me atraia interesse.
+
 # xmlMySqlDomParser
 My first java project that I want to share.
 Its my 1.0 to use with a data acess layer
